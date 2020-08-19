@@ -1,0 +1,22 @@
+{
+  "name": "sampleCommonLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of sampleCommonLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bribeirocod/sampleCommonLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bribeirocod": "brunohbr123@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/bribeirocod/sampleCommonLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "sampleCommonLibrary/Classes/**/*"
+}

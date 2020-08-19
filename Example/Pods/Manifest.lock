@@ -1,0 +1,16 @@
+PODS:
+  - sampleCommonLibrary (0.1.0)
+
+DEPENDENCIES:
+  - sampleCommonLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  sampleCommonLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sampleCommonLibrary: 61feb0d0e1008d9e019addbd357f12ba1f92b81a
+
+PODFILE CHECKSUM: 4d22d034d865bd19a036bed70ec5604c1e495760
+
+COCOAPODS: 1.9.1
